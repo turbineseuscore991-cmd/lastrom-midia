@@ -1,0 +1,25 @@
+{
+  "cliente": "Lastrom",
+  "chave": "lastrom",
+  "arroba": "@lastrom.br",
+  "atualizado": "2026-10-01 22:06",
+  "publicados": 0,
+  "fila": 1,
+  "adiante": 1,
+  "aprovados": 1,
+  "proximo": {
+    "id": "L11",
+    "quando": "2026-10-02 11:00",
+    "tipo": "foto",
+    "aprovado": true,
+    "futuro": true
+  },
+  "atrasados": [],
+  "problemas": [],
+  "meta": {
+    "ok": true,
+    "username": "lastrom.br",
+    "seguidores": 25,
+    "posts_no_ar": 13
+  }
+}
