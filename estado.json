@@ -2,24 +2,18 @@
   "cliente": "Lastrom",
   "chave": "lastrom",
   "arroba": "@lastrom.br",
-  "atualizado": "2026-10-02 01:06",
-  "publicados": 0,
-  "fila": 1,
-  "adiante": 1,
-  "aprovados": 1,
-  "proximo": {
-    "id": "L11",
-    "quando": "2026-10-02 11:00",
-    "tipo": "foto",
-    "aprovado": true,
-    "futuro": true
-  },
+  "atualizado": "2026-10-02 11:06",
+  "publicados": 1,
+  "fila": 0,
+  "adiante": 0,
+  "aprovados": 0,
+  "proximo": null,
   "atrasados": [],
   "problemas": [],
   "meta": {
     "ok": true,
     "username": "lastrom.br",
     "seguidores": 25,
-    "posts_no_ar": 13
+    "posts_no_ar": 14
   }
 }
